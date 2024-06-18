@@ -1,0 +1,70 @@
+body{
+    font-family: kanit;
+    padding: 5px;
+    margin: 5px;
+    background-color: beige;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+}
+
+.image-container img {
+    margin: 0 5px;
+    }
+
+h2 {
+    color:black;
+    line-height: 5px;
+}
+
+
+main{
+    padding: 10px;}
+
+
+section{
+    font-size: larger;
+    border-radius: 5px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin-top: 20px;
+}
+
+section p{
+    color: black;
+    margin-bottom: 10px;
+    line-height: 1,5;
+}
+
+h3{
+    text-align: center;
+}
+
+nav {
+    padding: 10px 0; /* Espaçamento interno na navegação */
+    text-align: center; /* Alinha conteúdo ao centro */
+}
+
+nav ul {
+    list-style-type: none; /* Remove marcadores de lista */
+    padding: 5; /* Remove padding padrão */
+    margin: 0; /* Remove margens padrão */
+    display: inline-block; /* Exibe a lista como inline-block */
+
+}
+
+nav ul li {
+    display: inline-block; /* Exibe a lista como inline-block */
+    margin-right: 10px; /* Espaçamento entre os itens */
+}
+
+nav ul li a{
+    color: white; /* Nome da letra */
+    text-decoration: none; /* Remove sublinhado dos links */
+    padding: 10px 40px; /* Espaçamento interno nos links */
+    border-radius: 5px; /* Borda arredondada nos links */
+    background-color:black; /* Cor de fundo dos links */
+}
+ 
