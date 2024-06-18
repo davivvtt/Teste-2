@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Davi Vasconcelos</title>
+
+    <!--Link da fonte:-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+    <!--Link para o arquivo CSS-->
+    <link rel="stylesheet" href="style.css">
+
+  </head>
+
+  <body>
+       
+    <h1 style="color:white; background-color:black; text-align: center; padding-block-start: 1px;">Olá, eu sou o Davi Vasconcelos!</h1>
+
+    <div class="image-container">
+      <img src="/CSS/Arquivos/2.jpeg" width="250" height="250" alt="manutenção">
+      <img src="/CSS/Arquivos/3.jpeg" width="250" height="250" alt="Foto Davi">
+      <img src="/CSS/Arquivos/4.jpeg" width="250" height="250" alt="Instalação">
+    </div>
+
+    <br>
+
+    <main>
+
+      <h2>Um pouco sobre minha atuação...</h2>
+      <section> 
+
+        <p>Sou um profissional apaixonado pelo setor de energias renováveis, com uma formação sólida e experiência prática significativa em energia eólica, biomassa e solar. Ao longo da minha carreira, desenvolvi habilidades essenciais em instalação, manutenção e pós-venda de sistemas solares residenciais e comerciais, contribuindo diretamente para a expansão e a eficiência dessas tecnologias sustentáveis.</p>
+        
+        <p>Com um ano de experiência prática no campo, pude vivenciar de perto os desafios e as oportunidades do mercado de energia solar. Durante esse período, executei instalações complexas, garantindo não apenas a funcionalidade dos sistemas, mas também a satisfação e segurança dos clientes. Minha capacidade de diagnosticar problemas e realizar manutenções preventivas tem sido crucial para manter os sistemas operando de maneira eficiente ao longo do tempo.</p>
+        
+        <p>Além das habilidades técnicas específicas em energias renováveis, possuo conhecimentos sólidos em administração e utilização avançada de softwares de projeção 3D. Essas competências me permitem não apenas projetar sistemas solares eficientes, mas também comunicar visualmente ideias e conceitos complexos de maneira clara e persuasiva.</p>
+        
+        <p>Minha paixão pela sustentabilidade e pela inovação energética me motiva a buscar constantemente novas oportunidades de aprendizado e aprimoramento. Estou comprometido em contribuir para o avanço das energias renováveis, utilizando meu conhecimento e experiência para enfrentar os desafios globais relacionados à mudança climática e à segurança energética.</p>
+        
+        <p>Estou entusiasmado para fazer parte de uma equipe dinâmica e colaborativa, onde possamos juntos impulsionar soluções energéticas sustentáveis e impactar positivamente o futuro do nosso planeta.</p>
+    
+      </section>
+    </main>
+
+    <hr>
+
+    <section> 
+    <h2>Minhas principais habilidades</h2>
+      <ul>
+        <li>Possuo habilitação AB;</li>
+        <li>Experiência em resolução de Problemas;</li>
+        <li>Conhecimento intermediário no pacote office;</li>
+        <li>Conhecimento em softwares como PVsyst, RETScreen e SketchUp.</li>
+      </ul>
+    </section>
+
+    <hr>
+
+    <h3>Contatos</h3>
+    <nav>
+      <ul>
+        <li><a href="#">Inicio</a></li>
+        <li><a href="https://www.linkedin.com/in/davi-vasconcelos-aa14101a1/" target="_blank">LinkedIn</a></li>
+        <li><a href="https://www.instagram.com/davi_vs/" target="_blank">Instagram</a></li>
+        <li><a href="https://github.com/davivvtt" target="_blank">GitHub</a></li>
+      </ul>
+   </nav>
+           
+  </body>
+</html> 
